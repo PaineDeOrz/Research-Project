@@ -2,6 +2,8 @@
 
 A music player for Android and iOS built with Flutter. This is a research project at the University of Stuttgart about the development of an offline music player with Flutter and the challenges it comes with.
 
+[Read full documentation](Forschungsprojekt.pdf)
+
 ## Features
 
 - Gapless playback
